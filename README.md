@@ -2,7 +2,7 @@
 
 # AIS BOMBING
  
-![Logo](received_1025986074757503.webp)
+![Logo](Screenshot_20231229_175556.jpg)
 
 # DEMO
 ![Logo](IMG_20220803_064631_735.jpg)

@@ -30,4 +30,4 @@ HELLO WORLD IAM AL IBNE SADIK NICKNAME AIS IAM NOT HACKER BUT IAM A DANGER
 
 
 ## DOWNLOAD AIS SMS BOMBING
-<a href="https://raw.githubusercontent.com/Teamex07/Ex-Bomber-Pro/main/ExBomber.apk">DOWNLOAD NOW</a>
+<a href="">DOWNLOAD NOW</a>

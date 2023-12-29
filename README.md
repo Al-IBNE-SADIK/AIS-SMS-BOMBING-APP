@@ -30,4 +30,4 @@ HELLO WORLD IAM AL IBNE SADIK NICKNAME AIS IAM NOT HACKER BUT IAM A DANGER
 
 
 ## DOWNLOAD AIS SMS BOMBING
-<a href="https://github.com/Al-IBNE-SADIK/AIS-SMS-BOMBING-APP/blob/e11fbf1b86ab5f7d525164463699c6feed906a6e/sadik.sadik.apk">DOWNLOAD NOW</a>
+<a href="https://raw.githubusercontent.com/Al-IBNE-SADIK/AIS-SMS-BOMBING-APP/e11fbf1b86ab5f7d525164463699c6feed906a6e/sadik.sadik.apk">DOWNLOAD NOW</a>
